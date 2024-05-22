@@ -1,0 +1,36 @@
+html {
+    font-size : 10px;
+    font-family: "Poetsen One", sans-serif;
+    background-color:cadetblue;
+    color :rgb(52, 100, 187);
+}
+
+h1 {
+    margin : 0;
+    padding: 20px 0;
+    color :cornsilk;
+    font-size : 60px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: auto;
+    background-color: coral;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black; 
+}
+
+img{
+    width: 400px;
+    display: block;
+    margin: 100px;
+}
